@@ -1,0 +1,6 @@
+/home/chenmingjian/workProjects/fengkong-2/poc/source/trunk/poc-service/src/main/java/com/beesevenrepos/poc/Api/TestApi.java
+/home/chenmingjian/workProjects/fengkong-2/poc/source/trunk/poc-service/src/main/java/com/beesevenrepos/poc/controller/TestMain.java
+/home/chenmingjian/workProjects/fengkong-2/poc/source/trunk/poc-service/src/main/java/com/beesevenrepos/poc/config/MysqlDB.java
+/home/chenmingjian/workProjects/fengkong-2/poc/source/trunk/poc-service/src/main/java/com/beesevenrepos/poc/config/MysqlSessionFactory.java
+/home/chenmingjian/workProjects/fengkong-2/poc/source/trunk/poc-service/src/main/java/com/beesevenrepos/poc/Application.java
+/home/chenmingjian/workProjects/fengkong-2/poc/source/trunk/poc-service/src/main/java/com/beesevenrepos/poc/dao/mysql/TestMapper.java

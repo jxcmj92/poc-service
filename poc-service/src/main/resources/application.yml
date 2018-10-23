@@ -1,0 +1,20 @@
+server:
+  port : 5212
+
+mysql :
+  #jdbc
+  driver : com.mysql.jdbc.Driver
+  url : jdbc:mysql://192.168.3.172:3306/test_tms_agent_service?useUnicode=true&characterEncoding=utf8
+  username : devuser
+  password : dev123
+  #初始化连接数个数
+  initialSize : 5
+  #最大连接数
+  maxActive : 2335
+  #最小连接数
+  maxIdel : 120
+  #配置获取连接等待超时的时间
+  maxWait : 100
+
+  jdbc :
+    mapper : /mapper/*.xml
